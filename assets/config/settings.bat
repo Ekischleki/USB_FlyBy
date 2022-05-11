@@ -1,1 +1,1 @@
-set startup_config_run=grabData
+set startup_config_run=disabled
