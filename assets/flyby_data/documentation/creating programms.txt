@@ -1,3 +1,0 @@
-Locate the programms folder at \assets\programms and create a new folder called *Name of your Programm* (Should only have letters in the alphabet and maybe _)
-Create a file in your programm called prg.bat
-If your programm is chosen, the launcher will start prg.bat, after that, you can do anything you want with the file.
